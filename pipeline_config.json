@@ -1,7 +1,7 @@
 {       
   "ApplicationType":"Angular",
-	"ApplicationName":"Angular_hello-world_app_06",
+	"ApplicationName":"Angular_hello-world_app_07",
   "BuildTool":"npm",
-	"BuildName":"Invoice_App_Ver1.6",
+	"BuildName":"Invoice_App_Ver1.9",
   "BuildType":"Angular_Build"
 }
