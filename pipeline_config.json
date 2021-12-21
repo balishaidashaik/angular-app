@@ -1,6 +1,6 @@
 {       
   "ApplicationType":"Angular",
-	"ApplicationName":"Angular_hello04",
+	"ApplicationName":"Angular_hello05",
   "BuildTool":"npm",
 	"BuildName":"Invoice_App_Ver1.8",
   "BuildType":"Angular_Build"
