@@ -1,6 +1,9 @@
 {
   "name": "helloworld",
   "version": "0.0.0",
+  "publishConfig": {
+     "registry": "http://23.20.71.205:8081/repository/angular-hosted/"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
