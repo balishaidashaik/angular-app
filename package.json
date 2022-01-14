@@ -2,7 +2,7 @@
   "name": "helloworld",
   "version": "0.0.0",
   "publishConfig": {
-     "registry": "http://18.217.122.128:8081/repository/Angular-hosted/"
+     "registry": "http://18.223.156.120:8395/repository/npm-private/"
   },
   "scripts": {
     "ng": "ng",
