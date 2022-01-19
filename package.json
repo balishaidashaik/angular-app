@@ -1,6 +1,11 @@
 {
   "name": "helloworld",
   "version": "0.0.0",
+  "name": "@npm-app1/helloworld"
+  "publishConfig": {
+     "registry": "http://18.223.156.120:8395/repository/npm-private/"
+  },
+
   
   "scripts": {
     "ng": "ng",
