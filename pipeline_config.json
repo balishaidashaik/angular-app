@@ -1,7 +1,15 @@
 {       
   "ApplicationType":"Angular",
-	"ApplicationName":"Angular_hello112",
+	"ApplicationName":"angular-pipeline-2001",
   "BuildTool":"npm",
-	"BuildName":"Invoice_App_Ver1",
-  "BuildType":"Angular_Build"
+	"BuildName":"Angular Git",
+  "BuildType":"npm",
+  "SCM":"Git",
+ 	"os":"linux",
+ 	"app_branch":"master",
+ 	"Run_SonarQube":"no",
+	"s3_bucket_name":"buildartifacts-dynamic-pipeline-jenkins",
+	"s3_region":"us-east-2",
+	"s3_storage_class":"STANDARD",
+ 	"BuildOutputLocation":"dist/"
 }
