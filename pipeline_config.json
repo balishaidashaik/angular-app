@@ -1,6 +1,6 @@
 {       
   "ApplicationType":"Angular",
-	"ApplicationName":"angular-pipeline-2213",
+	"ApplicationName":"angular-pipeline-2215",
   "BuildTool":"npm",
 	"BuildName":"Angular Git",
   "BuildType":"npm",
