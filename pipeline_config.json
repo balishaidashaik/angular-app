@@ -1,15 +1,7 @@
-{       
-  "ApplicationType":"Angular",
-	"ApplicationName":"angular-pipeline-2324",
-  "BuildTool":"npm",
-	"BuildName":"Angular Git",
-  "BuildType":"npm",
-  "SCM":"Git",
- 	"os":"linux",
- 	"app_branch":"master",
- 	"Run_SonarQube":"no",
-	"s3_bucket_name":"buildartifacts-dynamic-pipeline-jenkins",
-	"s3_region":"us-east-2",
-	"s3_storage_class":"STANDARD",
- 	"BuildOutputLocation":"dist/"
+{	"ApplicationType":"Angular",
+	"ApplicationName":"Invoice_Transaction-232",
+ 	"BuildTool":"npm",
+	"BuildName":"Invoice_App_Ver1.98",
+ 	"BuildType":"Angular_Build"
+ 
 }
