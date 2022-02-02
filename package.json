@@ -1,11 +1,6 @@
 {
   "name": "@npm-app1/helloworld",
   "version": "0.0.0",
-  "publishConfig": {
-     "registry": "http://18.223.156.120:8395/repository/npm-private/"
-  },
-
-  
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
